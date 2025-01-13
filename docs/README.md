@@ -7,7 +7,7 @@
 ## Table of contents
 
 This site will be organized by topic:
-* [Who am i?] (#who-am-i
+* [Who am i?] (#who-am-i)
 * [Being pregnant] (being-pregnant.md)
 * [Giving birth] (giving-birth.md)
 * [Infancy] (infancy.md)
@@ -17,4 +17,5 @@ This site will be organized by topic:
 * [Staying sane] (staying-sane.md)
 * [Still chasing dreams] (chasing-dreams.md)
 
-## Intended audience
+## Who am i ?
+![This is me](./assets/jessy1.jpg)
