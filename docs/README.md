@@ -15,5 +15,5 @@ This site will be organized by topic:
 * [Staying sane](staying-sane.md)
 * [Still chasing dreams](chasing-dreams.md)
 
-## Who am i ?
+## Who am i?
 ![This is me](./assets/jessy2.jpg)
