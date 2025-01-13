@@ -18,4 +18,4 @@ This site will be organized by topic:
 * [Still chasing dreams] (chasing-dreams.md)
 
 ## Who am i ?
-![This is me](./assets/jessy1.jpg)
+![This is me](./assets/jessy2.jpg)
