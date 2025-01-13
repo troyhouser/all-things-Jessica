@@ -9,9 +9,7 @@
 This site will be organized by topic:
 * [Who am i?] (#who-am-i)
 * [Being pregnant] (being-pregnant.md)
-* [Giving birth] (giving-birth.md)
 * [Infancy] (infancy.md)
-* [Toddlerhood] (toddlerhood.md)
 * [Cooking] (cooking.md)
 * [Being a wife at the same time] (being-wife.md)
 * [Staying sane] (staying-sane.md)
